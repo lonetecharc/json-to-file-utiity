@@ -1,0 +1,25 @@
+{
+  "name": "json-to-file",
+  "version": "1.0.1",
+  "description": "auto save json to file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lonetecharc/json-to-file.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "bappaditya.b <bappaditya.b@live.com>",
+  "license": "ISC",
+  "dependencies": {
+    "json-format": "0.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/lonetecharc/json-to-file/issues"
+  },
+  "homepage": "https://github.com/lonetecharc/json-to-file"
+}
